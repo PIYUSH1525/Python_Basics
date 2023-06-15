@@ -12,3 +12,4 @@ print("number1 ** number2 is", number1 ** number2)  # USED  FOR EXPONENTIAL POWE
 print("number1 % number2 is", number1 % number2)  # USED FOR GIVING REMAINDER AFTER DIVISION
 
                    # ASSIGNMENT OPERATORS
+THe operastoers are
