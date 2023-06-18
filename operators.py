@@ -37,6 +37,7 @@ print(x==z and x>y)
 # OR OPERATOR
 print(x==z or x>y)   # THE OUTPUT WILL BE TRUE WHEN EITHER OF THEM OR BOTH OF THE CONDITIONS  ARE TRUE
 print(x==z or x>y)
-
-
-
+# NOT OPERATOR
+print(not(0))   # IN GENERAL 0 MEANS FALSE AND 1 MEANS TRUE
+print(not(1))   # IN GENERAL 0 MEANS FALSE AND 1 MEANS TRUE
+print(not(True))
