@@ -8,3 +8,4 @@ print(string_name[3:4])  # [STARTING INDEX NUMBER : ENDING INDEX NUMBER + 1]
 print(string_name.capitalize()) # USED TO CAPTILISSE THE FIRST LETTER OF THE STRING
 print(string_name.count("i"))  # USED TO COUNT THE OCCURANCE
 print(string_name.isalnum())
+''' There Are No of Methods for string in python '''
