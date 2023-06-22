@@ -15,7 +15,7 @@ print(type(number))                                                 # See Output
 Piyush = 10                                      # HERE BOTH ARE DIFFERENT VARIABLE AS PYTHON IS CASE SENSITIVE LANGUAGE
 piyush = 14
 
-a = 'piyush'
+a = 'piyush '
 a = "Piyush "                                                        # Here All are Valid case of string declearation
 a = '''Piyush is a good boy studying in DIT dehradun '''             # it is very useful in multi line comments.
 
