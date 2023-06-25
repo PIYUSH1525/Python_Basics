@@ -1,7 +1,7 @@
 string_name = "piyush"        # BOTH THE "" AND '' WILL WORK
 string_name2 = 'Negi'         # BOTH THE "" AND '' WILL WORK
 print(string_name)
-print(string_name2)
+print(string_name2)          # CHANGES ARE DONE IN A NEW STRING NOT IN THE SAME LIST
 # SLICING THE STRINGS
 print(string_name[0:4])  # n to n-1 INDEX
 print(string_name[3:4])  # [STARTING INDEX NUMBER : ENDING INDEX NUMBER + 1]

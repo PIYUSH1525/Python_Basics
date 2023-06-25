@@ -1,0 +1,5 @@
+l = [3,5,32,1,9,8]
+a=type(l)
+print(a)          # CHANGES ARE DIRECTLY DONE IN MAIN LIST NO SEPRATED LIST IS CREATED
+
+# METHODS
