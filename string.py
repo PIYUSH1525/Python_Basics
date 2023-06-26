@@ -1,3 +1,4 @@
+# immutable in nature
 string_name = "piyush"        # BOTH THE "" AND '' WILL WORK
 string_name2 = 'Negi'         # BOTH THE "" AND '' WILL WORK
 print(string_name)

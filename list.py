@@ -14,3 +14,5 @@ m.extend(l)                                            # TO ADD TWO LIST TOGETHE
 print(l.index(32))
 print(l[0:3])                                          # SLICICNG OF LIST
 print(m)
+l[0] = "PIYUSH "
+print(l)
