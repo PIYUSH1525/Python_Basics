@@ -8,7 +8,9 @@ b= l.count(3)
 print("the count of number is" ,b)
 l.sort()                                               # CAN DONE IN SAME DATA TYPE
 l.append("piyush")                                     # ADD ITEM TO THE LAST OF THE LIST
+print(l.index(32))
 l.pop(0)                                               # POP REMOVE THE LAST ELEMENT OF THE LIST WHEN NO INDEX IS GIVEN
 m.extend(l)                                            # TO ADD TWO LIST TOGETHER
+print(l.index(32))
+print(l[0:3])                                          # SLICICNG OF LIST
 print(m)
-
