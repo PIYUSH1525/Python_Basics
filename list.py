@@ -16,3 +16,15 @@ print(l[0:3])                                          # SLICICNG OF LIST
 print(m)
 l[0] = "PIYUSH "
 print(l)
+
+
+
+list1=[80,90,100,120]
+print(list1[::-2])                       #$ IMPORTANT
+print(13//4)
+
+import math
+print(math.sqrt(25))
+
+tup1= (4,9,11,23)
+print(tup1[1:4])
