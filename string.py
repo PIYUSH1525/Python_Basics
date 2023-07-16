@@ -1,5 +1,5 @@
 # immutable in nature
-string_name = "piyush"        # BOTH THE "" AND '' WILL WORK
+string_name = "PIYUSH"   # BOTH THE "" AND '' WILL WORK
 string_name2 = 'Negi'         # BOTH THE "" AND '' WILL WORK
 print(string_name)
 print(string_name2)          # CHANGES ARE DONE IN A NEW STRING NOT IN THE SAME LIST
@@ -9,4 +9,11 @@ print(string_name[3:4])  # [STARTING INDEX NUMBER : ENDING INDEX NUMBER + 1]
 print(string_name.capitalize()) # USED TO CAPTILISSE THE FIRST LETTER OF THE STRING
 print(string_name.count("i"))  # USED TO COUNT THE OCCURANCE
 print(string_name.isalnum())
+
+
 ''' There Are No of Methods for string in python '''
+
+
+a = int(input("enter the tetmperature in cellcius "))
+c =  (a*1.8) + 32
+print(c)

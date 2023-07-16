@@ -10,5 +10,8 @@ print(dict[123])
 dict["aman"] = 1488
 print(dict)
 
-print(dict.get(1234))
-print(dict[1234])
+# print(dict.get(1234))
+# print(dict[1234])
+print(dict.values())
+print(dict.keys())
+print(dict.items())
