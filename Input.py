@@ -19,3 +19,10 @@ a = 'piyush '
 a = "Piyush "                                                        # Here All are Valid case of string declearation
 a = '''Piyush is a good boy studying in DIT dehradun '''             # it is very useful in multi line comments.
 
+
+x, y, z = input("Enter three values: ").split()
+print("MY name is : ", x)
+print("My age is  : ", int(y))
+print("My height is : ",bool(z))
+
+m , n = input("enter the comma seprated values").split(",")
